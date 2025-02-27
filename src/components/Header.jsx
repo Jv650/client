@@ -1,14 +1,14 @@
 import { Link } from "react-router-dom";
 //bootsrap
 //import { Button } from "react-bootstrap";
-//import "bootstrap/dist/css/bootstrap.min.css";
+//import "bootstrap/dist/css/bootstrap.min.css"; hjbhbjhbjh
 
 const Header = () => {
   return (
     <header>
       <div>
         <h1 className="header--logo">
-          <Link to="/">Courses</Link>
+          <Link to="/">Notes</Link>
         </h1>
         <nav>
           <ul>
